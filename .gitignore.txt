@@ -1,2 +1,0 @@
-Segmento.dproj.local
-Win32
